@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Configuration;
 using System.Linq;
-using System.Runtime.ExceptionServices;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
